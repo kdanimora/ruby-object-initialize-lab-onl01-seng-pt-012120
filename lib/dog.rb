@@ -21,3 +21,6 @@ class Dog
   end
  
 end 
+
+"Mutt" = Dog.new 
+
